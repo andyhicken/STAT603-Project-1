@@ -8,17 +8,22 @@ In part two, we are using the calcium dataset to compare differences in measurem
 Files Contained in this Directory
 
 Overall Project
-* STAT603 - project1.docx
-* How to Import a data file onto SAS.docx
-* SAS Code - project1.docx
-* Table of Contents.html
-* STAT603 - Project 1 - Trace Tidwell.docx
+* STAT603 - project1.docx // Description of project
+* SAS Code - project1.docx // SAS Code needed for Part 1
+* How to Import a data file onto SAS.docx // Instructions on importing data into SAS for Part 2
+* Table of Contents.html // Table of Contents for zip folder containing project files
+* STAT603 - Project 1 - Trace Tidwell.docx // Analysis to be submitted
+* README.md // Readme file outlining contents of repository
 
 Part 1
-* baby.pdf
-* babyboom.csv
+* baby.csv
+* babyboom.pdf
 * babyboom.xlsx
 * Project 1.1.egp
 
 Part 2
+* calcium.csv
+* calcium.pdf
+* calcium.xlsx
+* Project 1.2.egp
 
