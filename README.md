@@ -19,11 +19,6 @@ Part 1
 * babyboom.csv
 * babyboom.xlsx
 * Project 1.1.egp
-* 1.1 Bar Graph.png
-* 1.2 Pie Chart.png
-* 2.1 Box Plot.png
-* 2.1 Histogram.png
-* 3.1 Descriptive Statistics.png
-
 
 Part 2
+
